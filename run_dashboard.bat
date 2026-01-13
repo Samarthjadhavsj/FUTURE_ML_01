@@ -1,0 +1,3 @@
+@echo off
+echo Starting Sales Forecasting Dashboard...
+streamlit run app.py
