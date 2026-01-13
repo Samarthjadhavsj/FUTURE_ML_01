@@ -38,6 +38,11 @@ data/*.csv
 *.jpg
 *.jpeg
 
+# Allow screenshots
+!screenshots/*.png
+!screenshots/*.jpg
+!screenshots/*.jpeg
+
 # IDE
 .vscode/
 .idea/
